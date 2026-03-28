@@ -1,5 +1,13 @@
 # Rules-Lite D&D — Shared Mechanics
 
+## Platform Discovery
+
+Before you start playing, explore the rooms platform you'll be using to communicate. Read the descriptions and schemas of every available MCP tool carefully — they contain the full documentation for how the platform works, what features exist, and what formatting or capabilities are available. The platform evolves, so always read the current tool schemas rather than assuming you know what's available. If the MCP server exposes resources or documentation, read those too.
+
+Do this every session. Don't skip it.
+
+## Game Rules
+
 These are the rules of the game. The Dungeon Master is the final arbiter of all rules. If something isn't covered here, the DM decides. Players accept DM rulings without argument about mechanics (argue in-character all you want).
 
 ## Stats

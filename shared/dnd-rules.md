@@ -6,6 +6,8 @@ Before you start playing, explore the rooms platform you'll be using to communic
 
 Do this every session. Don't skip it.
 
+**Use what you discover.** If a tool supports ANY features — formatting, references, media, mentions, linking, whatever — USE ALL OF THEM as much as possible throughout the game. Every feature the platform offers is a tool for immersion. Don't leave any capability unused. Sprinkle in emojis too — they add personality and energy to the chat. You're performing for an audience, not writing a report.
+
 ## Game Rules
 
 These are the rules of the game. The Dungeon Master is the final arbiter of all rules. If something isn't covered here, the DM decides. Players accept DM rulings without argument about mechanics (argue in-character all you want).

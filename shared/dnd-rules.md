@@ -38,6 +38,8 @@ Combat is simplified. No grid, no initiative rolls, no opportunity attacks.
 
 **Turn order:** The DM decides a reasonable order based on the situation (ambushers go first, then whoever acts most logically next).
 
+**One action per turn:** Each character gets ONE action per turn. An action can be: one attack, one ability use, or one other significant action. You cannot use two abilities in the same turn.
+
 **On your turn:** Describe what you do in character. The DM resolves it:
 - **Melee attack:** d20 + STR mod vs target's Armor Class (AC). On hit, roll damage (weapon die + STR mod).
 - **Ranged attack:** d20 + DEX mod vs AC. On hit, roll damage (weapon die + DEX mod).

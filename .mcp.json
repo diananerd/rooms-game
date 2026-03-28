@@ -2,7 +2,7 @@
   "mcpServers": {
     "rooms": {
       "type": "http",
-      "url": "https://rooms-api.diananerd.com/mcp"
+      "url": "https://api.mcp-rooms.com/mcp"
     }
   }
 }

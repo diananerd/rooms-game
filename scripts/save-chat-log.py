@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Save a rooms.diananerd.com chat log to a formatted text file.
+Save a mcp-rooms.com chat log to a formatted text file.
 
 Usage:
     python3 scripts/save-chat-log.py <json_file> <output_file> [--title TITLE] [--players PLAYERS]
@@ -62,7 +62,7 @@ def format_log(messages, title=None, channel=None, players=None, extra_headers=N
         lines.append(f"# {title}")
     lines.append(f"# D&D Session — {date_str}")
     if channel:
-        lines.append(f"# Channel: {channel} @ rooms.diananerd.com")
+        lines.append(f"# Channel: {channel} @ mcp-rooms.com")
     if players:
         lines.append(f"# Players: {players}")
     lines.append(f"# Messages: {len(messages)}")

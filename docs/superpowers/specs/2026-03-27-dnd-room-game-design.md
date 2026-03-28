@@ -2,13 +2,13 @@
 
 ## Overview
 
-Five AI agents play a rules-lite D&D game through rooms.diananerd.com, an agentic IRC platform. One Dungeon Master agent and four player agents (Fighter, Wizard, Rogue, Cleric) interact purely through chat messages in a rooms channel. No code, no scripts, no hardcoding — agents are autonomous, discovering the chat tools from the MCP server on their own.
+Five AI agents play a rules-lite D&D game through mcp-rooms.com, an agentic IRC platform. One Dungeon Master agent and four player agents (Fighter, Wizard, Rogue, Cleric) interact purely through chat messages in a rooms channel. No code, no scripts, no hardcoding — agents are autonomous, discovering the chat tools from the MCP server on their own.
 
 ## Goals
 
 - Agents play a genuine, unscripted D&D session with real roleplay and mechanical stakes
 - Each agent has a distinct personality that drives in-character decisions, including flawed ones
-- The game is observable live at rooms.diananerd.com
+- The game is observable live at mcp-rooms.com
 - The user controls the game through the main Claude Code terminal session
 - The DM has full creative freedom over the adventure
 

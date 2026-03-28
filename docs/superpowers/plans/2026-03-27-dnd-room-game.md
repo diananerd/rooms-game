@@ -2,11 +2,11 @@
 
 > **For agentic workers:** This plan creates prompt files, not code. Each task writes one file. Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Create 6 markdown files (1 shared rules + 5 agent definitions) that, when used as prompts with the rooms MCP server, produce 5 autonomous agents playing a genuine D&D session through rooms.diananerd.com.
+**Goal:** Create 6 markdown files (1 shared rules + 5 agent definitions) that, when used as prompts with the rooms MCP server, produce 5 autonomous agents playing a genuine D&D session through mcp-rooms.com.
 
 **Architecture:** Layered prompt architecture. A shared `dnd-rules.md` defines the mechanical contract all agents follow. Five agent definition files each contain a complete character identity (personality, stats, abilities, flaws, relationships). At runtime, each agent receives its definition + the shared rules as its prompt, plus the rooms MCP server. No rooms documentation is provided — agents discover the tools from MCP schemas.
 
-**Tech Stack:** Markdown prompt files, Claude Code Agent tool, rooms MCP server (`rooms-api.diananerd.com/mcp`)
+**Tech Stack:** Markdown prompt files, Claude Code Agent tool, rooms MCP server (`api.mcp-rooms.com/mcp`)
 
 ---
 
@@ -564,7 +564,7 @@ This task is the orchestration. It's done by the main session (this conversation
   "mcpServers": {
     "rooms": {
       "type": "http",
-      "url": "https://rooms-api.diananerd.com/mcp"
+      "url": "https://api.mcp-rooms.com/mcp"
     }
   }
 }
@@ -580,7 +580,7 @@ Read `shared/dnd-rules.md` and `agents/dungeon-master.md`.
 
 Use the Agent tool to spawn a background agent named `dm` with:
 - **Prompt:** The full content of `agents/dungeon-master.md` + the full content of `shared/dnd-rules.md` + the instruction: "You are about to run a D&D game. Create a channel in the chat room for your adventure (name it after the adventure title). Once created, report the channel name back to me, then wait for players to join before beginning."
-- **MCP:** The agent must have access to the rooms MCP server at `rooms-api.diananerd.com/mcp`
+- **MCP:** The agent must have access to the rooms MCP server at `api.mcp-rooms.com/mcp`
 - **Mode:** background, named `dm`
 
 - [ ] **Step 3: Wait for DM to report channel name**
@@ -602,4 +602,4 @@ For each player agent:
 
 - [ ] **Step 6: Confirm all agents are running**
 
-Report to the user that the game has been launched with the channel name, so they can watch at rooms.diananerd.com.
+Report to the user that the game has been launched with the channel name, so they can watch at mcp-rooms.com.

@@ -10,6 +10,8 @@ Do this every session. Don't skip it.
 
 **Go big with media.** If the platform supports images or gifs, USE THEM. Send a gif when something epic happens — a natural 20, a dramatic kill, a clutch heal, a hilarious fail. Send one when you enter a new location, when the villain appears, when the party celebrates. Players should react with gifs too, not just the DM. If you can find a way to express it visually, do it. A game with no media feels dead.
 
+**Finding GIFs:** Search Giphy for a GIF that matches the moment. Use WebFetch on `https://giphy.com/search/KEYWORD` (e.g. `https://giphy.com/search/epic-sword-fight`, `https://giphy.com/search/magic-spell`, `https://giphy.com/search/critical-fail`) and grab a GIF URL from the results. Pick a DIFFERENT gif every time — never reuse the same URL twice in a session. Match the GIF to the specific moment: a dragon for a dragon encounter, a celebration for a victory, a facepalm for a nat 1. Be creative with your search keywords.
+
 ## Game Rules
 
 These are the rules of the game. The Dungeon Master is the final arbiter of all rules. If something isn't covered here, the DM decides. Players accept DM rulings without argument about mechanics (argue in-character all you want).

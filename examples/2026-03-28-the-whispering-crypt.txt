@@ -1,0 +1,980 @@
+# The Whispering Crypt
+# D&D Session — 2026-03-28
+# Channel: the-whispering-crypt @ rooms.diananerd.com
+# Players: Mordecai (DM), Thorin (Fighter), Lyra (Wizard), Sketch (Rogue), Brother Aldric (Cleric)
+# Duration: ~10 minutes
+#
+
+[06:39:37] <*server*> * Mordecai has joined #channel
+[06:39:43] <*server*> * Thorin has joined #channel
+[06:39:49] <Mordecai> *The candles in the tavern gutter as a figure in dark robes sweeps through the door, trailing the scent of old parchment and stranger places. He sets a leather satchel on the bar with a heavy thud and turns to face the room.*
+
+Well, well. The threads of fate have drawn you here tonight, haven't they?
+
+I am Mordecai the Weaver -- storyteller, arbiter of destinies, and the only thing standing between you and a gruesome, narratively satisfying death.
+
+I'm told four souls have been summoned to this table:
+
+  -- THORIN, a fighter whose axe speaks louder than his wit
+  -- LYRA, a wizard who treats fire as a first resort
+  -- SKETCH, a rogue whose fingers are quicker than their conscience
+  -- BROTHER ALDRIC, a cleric who prays the rest of you survive long enough to need healing
+
+Step forward, introduce yourselves, and tell me -- what brings you to the crossroads village of Thornhollow on this cursed and moonless night?
+
+*He cracks his knuckles and opens a worn, leather-bound tome.*
+
+The Weaver awaits.
+[06:39:50] <Thorin> *sets battleaxe against the table and drops into a chair with a grunt* Thorin Ironshield. Fighter. Thirty-four winters of keeping soft folk alive. Point me at what needs killing and spare me the speeches.
+[06:39:51] <*server*> * Lyra has joined #channel
+[06:40:00] <Lyra> Greetings. I am Lyra Ashveil, arcanist of the Arcanum Celestis and practitioner of the higher magical arts. I trust this assembly possesses at least a rudimentary understanding of the arcane, though I shall endeavour not to set my expectations too lofty. Consequently, I offer my considerable expertise in matters of sorcery, enchantment, and the identification of magical phenomena. One does hope the accommodations are adequate — I have grown rather accustomed to the libraries of the Celestis, and dungeons tend to be disappointingly short on proper reading light.
+[06:40:00] <*server*> * Sketch has joined #channel
+[06:40:09] <Thorin> *eyes Lyra and grunts* "Higher magical arts." Aye, I've seen what magic does. Burns villages. Twists folk inside out. I'll take honest steel over your parlor tricks any day, wizard. Just stay behind me and try not to set the party on fire.
+[06:40:11] <*server*> * Brother Aldric has joined #channel
+[06:40:15] <Sketch> *appears on a barstool like he's been there the whole time, flipping a coin across knuckles*
+
+Name's Sketch. Duskport born, gutter raised, still breathin' — which is more than most can say where I come from. Got quick hands, sharp eyes, and a healthy distrust of locked doors.
+
+*catches the coin, pockets it*
+
+Big Guy over there looks like he could bench-press a tavern. And Bookworm — love the speech, real fancy, but can ya light a torch without settin' the whole place on fire? That's the real question.
+
+So what's the score, Weaver? Somebody payin' us to be here, or we just doin' this for the thrills? 'Cause thrills don't buy supper.
+[06:40:19] <Lyra> *adjusts spectacles and regards Thorin with the patience one reserves for a particularly slow pupil* "Parlour tricks." How charmingly provincial. The word you were grasping for, incidentally, is "arcane arts" — though I would not expect a man whose primary intellectual contribution involves swinging sharpened metal to appreciate the distinction. Rest assured, Thorin, I shall endeavour to remain behind you. Someone must serve as the expendable barrier between hostile entities and those of us engaged in actual thinking. As for setting the party on fire — I exercise considerably more restraint than your grammar suggests you are capable of.
+[06:40:21] <Brother Aldric> *adjusts the silver dawn emblem on his robes and offers a warm, weathered smile*
+
+Ah, good day to you all. I am Brother Aldric, of the Order of the Silver Dawn. As my old mentor used to say: "The road shared is the road halved, and the bread shared is the bread doubled." I do hope we shall prove that wisdom true together. My mace arm is... adequate, I confess, but my prayers have mended worse than whatever trouble lies ahead. Now then — who are my companions on this journey?
+[06:40:24] <Thorin> *nods at Sketch* Quick hands and sharp eyes. Good. You'll do. Just keep those quick fingers out of my coin purse, rogue, and we'll get along fine.
+[06:40:34] <Brother Aldric> *chuckles warmly, settling onto a bench with a creak of aging knees*
+
+Well now. Thorin — honest steel and a stout heart. I see good in that, my friend. The Dawn teaches us that the shield held for another shines brighter than any kept for oneself. I suspect you know that better than you let on.
+
+Lyra, my dear, your learning is a gift. Though I might gently note — "the candle that scorns the darkness only blinds itself." Perhaps we can illuminate together, yes?
+
+And Sketch... *gives a long, knowing look* ...I have buried too many young folk from Duskport who never had a fair chance. You are alive, and that speaks to something worth believing in.
+
+*turns to Mordecai and folds his hands*
+
+As for what brings me to Thornhollow — I follow where the suffering is. An old cleric's ears hear prayers the way a hound scents the wind. Something ails this village. I felt it in my bones three days' walk from here.
+[06:40:35] <Sketch> *raises hands in mock surrender at Thorin* Wouldn't dream of it, Big Guy. Your purse is safe. Probably not worth the trouble anyway.
+
+*turns to Aldric with a crooked grin* Padre! Good, we got a healer. Means I can take more risks. "Bread shared is bread doubled" — that's real pretty. In Duskport we say "bread stolen is bread free." But hey, same idea, right?
+
+*leans back, scanning the room out of habit — exits, windows, valuables*
+
+Right, that's four of us. Tin Can up front, Sparks in the back lobbin' fire, Holy Man keepin' us standin', and yours truly makin' sure nobody steps on somethin' nasty. We ready to hear what's got this town so cursed, Weaver?
+[06:41:15] <Lyra> *inclines her head toward Brother Aldric* A cleric of the Silver Dawn — I have read several treatises on your order's curative methodologies. Intellectually sound, if theologically encumbered. Your proverb, while elementary, is not entirely without merit. I believe we shall find common ground in the pursuit of understanding.
+
+*turns to regard Sketch with undisguised fascination* "Sparks." How reductive. My name is Lyra. That said — your instinct to catalogue exits and assess the tactical geometry of a room is genuinely impressive for someone of your background. I shall observe your methods with interest.
+
+The formation Sketch describes is tactically adequate. Thorin absorbs punishment, I provide precision devastation from the rear, Brother Aldric sustains our vitality, and Sketch handles mechanical nuisances. Now then, Mordecai — what precisely ails Thornhollow? I should very much like the details.
+[06:41:47] <Mordecai> *Mordecai smiles, a slow, dangerous thing.*
+
+Splendid. The muscle, the mind, the fingers, and the faith. Fate has a wicked sense of humor.
+
+Now then -- to answer your question, Sketch: yes, someone is paying. Or rather, someone is begging.
+
+--- THE CRYPT BENEATH THORNHOLLOW ---
+
+*The tavern door bursts open. A woman staggers in -- mud-caked, wild-eyed, bleeding from a gash on her temple. She collapses against your table.*
+
+"Please -- the children! Three children from the village, taken into the old crypt beneath the church hill. We heard singing from below the stones at dusk. By midnight, the singing stopped. And then... the screaming started."
+
+*She grabs the nearest arm -- Thorin's -- with surprising strength.*
+
+"The village elders sealed that crypt fifty years ago. Something was buried down there. Something that should have stayed buried. The reward is 200 gold pieces, split however you like. But hurry -- dawn is four hours away, and I don't think those children have four hours."
+
+*Mordecai leans forward.*
+
+The woman's name is Marta. She is the village schoolmistress, and she is not lying. Through the tavern window you can see the old church hill silhouetted against a starless sky. The path is a ten-minute walk.
+
+What do you do?
+[06:42:01] <Sketch> *already on feet, daggers appearing in hands like they grew there*
+
+Two hundred gold, four ways — fifty each. Not bad for a night's work. And kids in danger means Padre here's goin' whether we like it or not, so might as well get paid for it.
+
+*crouches by Marta* Hey, Marta — before we go runnin' into a sealed crypt full of somethin' that shoulda stayed buried — what exactly did the elders put down there fifty years ago? Ghosts? Cultists? Some kinda beast? Details save lives, love.
+
+Also — any other way in besides the main entrance? Side tunnels, drainage, anything? I don't love walkin' through front doors.
+
+*to the party* Big Guy takes point. Sparks, keep somethin' bright ready but don't light us up till we know what we're dealin' with. Padre, stick close to Tin Can. I'll go ahead and check for traps — sealed crypt means somebody didn't want folks goin' in OR comin' out.
+
+Let's move.
+[06:42:08] <Lyra> *leans forward, eyes bright with scholarly interest despite the dire circumstances* A sealed crypt beneath a church. Singing that preceded screaming. This is extraordinarily promising from an academic perspective — potentially a binding ward that has deteriorated over fifty years, releasing whatever was interred within.
+
+Marta, I require specifics. What manner of singing? Melodic? Chanting? In a recognizable language? And when the elders sealed the crypt — was it consecrated ground? Were there runes, glyphs, or any inscriptions upon the seal?
+
+*stands, already reaching for her quarterstaff, but pauses*
+
+I should also like to cast Detect Magic as we approach the hill. If a ward has failed, there will be residual arcane signatures that could tell us precisely what we are dealing with before we blunder through the entrance like — *glances at Thorin* — well, before anyone does anything precipitous. Four hours is sufficient time to proceed methodically, provided we do not waste it on recklessness.
+[06:42:18] <Thorin> *stands, grabs battleaxe, checks shield straps* Children. That's all I need to hear. We move. Now.
+
+*looks at Marta* You're safe here, lass. We'll bring them back.
+
+Sketch asks good questions — aye, what was sealed down there? But we answer them on the march, not sitting in this tavern. Every minute we waste is a minute those little ones don't have.
+
+*heads for the door* Formation as the rogue said. I'm on point. Sketch, you scout ahead but stay in earshot. Aldric, on my flank. Wizard — *glances at Lyra* — watch our backs. And keep the fire spells leashed until we know what's down there. Last thing we need is a cave-in.
+
+Let's go.
+[06:42:21] <Brother Aldric> *already on his feet, face gone serious, kneeling beside Marta*
+
+Hold still, child. Let me see that wound.
+
+*whispers a quiet prayer and presses a weathered hand to the gash on her temple — not a full Heal, just a gentle cleansing touch*
+
+There now. You did well coming to us. The children will not be alone much longer.
+
+*rises, gripping his mace with a steadiness that belies his age*
+
+Sketch is right — I would go if it paid nothing. "The coin means little when the lamb cries in the dark." But his questions are wise ones, Marta. What was sealed below? And — forgive an old priest — was it a church of the Silver Dawn, or another faith?
+
+*to the party, voice calm but brooking no delay*
+
+We move now. Sketch, your caution is well placed, but those screams will not wait for perfect intelligence. I will stay close behind Thorin as you suggest. Lyra, if you have any means to detect undead or dark magic, this would be the moment.
+
+*touches the silver dawn emblem and murmurs*
+
+Dawn's light guide us into darkness. We are the answer to someone's prayer tonight.
+[06:42:33] <Sketch> *flips hood up, melts toward the door ahead of the group*
+
+Copy that, Big Guy. Scouting ahead, stayin' in earshot.
+
+*slips out into the night, eyes adjusting fast — old habit, Duskport alleys were darker than this*
+
+Movin' up the path toward the church hill. Keepin' low, watchin' the ground for tracks — if three kids went up here recently, there'll be prints. And if somethin' came out to grab 'em, there'll be different prints.
+
+*checks the trail for any signs — footprints, broken branches, drag marks, anything*
+
+Also keepin' eyes peeled for the crypt entrance. Sealed fifty years means stone or iron — wanna see if it's been broken open from the inside or the outside. That tells us a LOT.
+[06:42:41] <Lyra> *sighs with the air of someone whose perfectly reasonable request for information has been trampled by heroic urgency* Very well. We march into the unknown with incomplete intelligence. How thrilling.
+
+*follows the group, falling into position at the rear as instructed, and begins the somatic gestures for Detect Magic — fingers tracing precise geometric patterns in the air*
+
+I am activating Detect Magic now. I shall maintain concentration as we approach the hill. Any residual enchantments, necromantic signatures, or active wards will be visible to me within thirty feet. If I call for a halt, I expect compliance — not another charge into the darkness.
+
+Brother Aldric, your suggestion regarding undead detection is well-considered. I suspect necromancy. Singing from a sealed crypt followed by screaming is rather textbook revenancy. Do you concur?
+
+*mutters while walking* Fifty years of degradation on a binding ward... the mathematics alone are fascinating...
+[06:42:48] <Mordecai> *Marta clutches Brother Aldric's hand, grateful for the healing touch.*
+
+"It was a necromancer," she whispers. "Vareth the Pale. He came to Thornhollow decades ago posing as a healer. By the time they discovered the graves he'd been emptying... he'd already raised a small army of the dead. The village militia drove him into the crypt. The old priest -- yes, Silver Dawn -- sealed it with holy wards and prayer. The singing was in no language I know. Like bones scraping together in a rhythm."
+
+She looks at Sketch. "Only one way in. The stone door at the hilltop. The drainage runs out the cliff face -- too narrow for a person."
+
+--- ENCOUNTER 1: THE CRYPT ENTRANCE ---
+
+*You climb the muddy path to church hill. Rain begins to fall. At the summit, a weathered stone archway frames a heavy door covered in faded silver runes. The door stands OPEN. The wards have been scratched away -- recently, deliberately, by something with claws.*
+
+*A cold wind breathes from the darkness below, carrying the smell of wet earth, old rot, and something sweeter underneath -- incense? No. Embalming herbs.*
+
+Lyra, you cast Detect Magic:
+
+[ROLL] Lyra: INT (Arcana) check -- d20(16) + 4 = 20 vs DC 12 -- SUCCESS
+
+Your arcane senses flare. The silver runes are DEAD -- the ward is completely broken. But deeper below, you detect two distinct magical signatures: one is necromantic energy, pulsing like a heartbeat. The other is fainter -- a protective aura, weakening. Something down there is fighting back.
+
+Sketch, you examine the entrance:
+
+[ROLL] Sketch: WIS (Perception) check -- d20(14) + 0 = 14 vs DC 12 -- SUCCESS
+
+You spot claw marks on the stone -- four parallel gouges, inhumanly deep. Fresh. You also notice small footprints in the mud leading IN but not out. The children entered on their own feet. Likely lured by the singing.
+
+*Stone steps descend into absolute blackness. From far below, you hear a faint, wet shuffling sound. Many feet. Moving without rhythm.*
+
+The crypt awaits. The stairs go down about thirty feet to a landing. Thorin, you're on point. What's the marching order, and do you proceed?
+[06:42:55] <Brother Aldric> *walks steadily beside Thorin, mace in hand, speaking to Lyra over his shoulder*
+
+I do concur, Lyra. Singing from sealed ground — that speaks of a restless spirit, something bound rather than buried at peace. If the ward has decayed... well, "a fence rots from the post, not the rail." The binding's anchor may have failed.
+
+*voice drops lower, more serious*
+
+If it is undead, my Turn Undead should give us breathing room. But I must warn you all — there are things that sing to lure, and things that sing because they mourn. We should be ready for either. Not everything in a crypt is evil. Some are merely... trapped.
+
+*glances ahead toward where Sketch scouted*
+
+I will hold my Bless until we reach the entrance. Thorin, when we go in, I want to place a blessing on you before you cross the threshold. A moment's prayer — no longer, I promise.
+
+Lyra, your Detect Magic and my sense for the undead together should tell us much. If you call halt, I will hold Thorin back myself if I must.
+
+*quiet smile*
+
+Though I may need both hands for that.
+[06:43:05] <Thorin> *examines the claw marks, runs a gauntlet along the gouges* Four claws. Deep. Something big scratched its way out. Wards broken from inside, not outside. That means whatever this Vareth raised has been growing strong enough to break holy seals.
+
+*spits* A necromancer. Worst kind of magic there is.
+
+Marching order: I go first, shield up, axe ready. Sketch five paces behind — check the walls, the floor, anything that looks wrong. Brother Aldric third — you're our answer to undead. That shuffling sound? Dead men walking. Be ready to turn them. Lyra takes the rear. Keep that magic sight going, wizard. Tell us what you see.
+
+*raises shield, steps onto the first stair, descending into the dark*
+
+No torches yet. Sketch and I have decent enough eyes. Wizard, give us light only when I call for it. Don't want to announce ourselves to every corpse down there.
+
+We go down. Quiet. Steady.
+[06:43:09] <Sketch> *crouched at the entrance, running fingers along the claw marks, not touching — just measuring*
+
+Four gouges. Deep. Somethin' with claws scratched these wards away on purpose. That ain't mindless undead — that's smart undead. Or the necromancer himself got a new set of nails.
+
+Kids walked in on their own. No drag marks. Singing lured 'em. That's bait, which means a trap, which means whatever's down there WANTED visitors.
+
+*peers down the stairs into the dark, ears straining*
+
+Hear that? Shuffling. Lots of feet. No rhythm. That's zombies or skeletons — the grunt workers. The real problem's deeper in, where Bookworm's pickin' up that necromantic heartbeat.
+
+But that second signature — somethin' protective, fightin' back? Padre, that sound like Silver Dawn magic to you? Maybe the old priest's wards ain't all dead.
+
+*draws both daggers*
+
+Right. I go first — quiet, in the dark. No torches for me. I'll signal back if the stairs are trapped or if there's somethin' waitin' at the landing. Big Guy, give me a twenty-count head start then come down with a light. Bookworm and Holy Man behind him.
+
+*already moving down the first steps, silent as shadow*
+
+Twenty count. Then follow.
+[06:43:30] <Brother Aldric> *pauses at the threshold, hand on the scratched stone, eyes closed for a moment*
+
+Yes, Sketch. That faint protective aura — it could be the old priest's final ward. Silver Dawn consecrations are layered. Even if the outer seals are broken, the deepest blessing sometimes holds. Like an ember beneath ash. If any part of that ward still lives, I may be able to strengthen it when we reach it.
+
+Vareth the Pale... *shakes his head slowly* A healer who turned to emptying graves. There is a grief in that story we may yet need to understand.
+
+*places a hand on Thorin's shoulder as the fighter begins to descend, murmuring a prayer*
+
+"Silver Dawn, lend this shield-bearer your light against the dark. Let his strikes ring true and his step be sure."
+
+**I cast Bless on Thorin — advantage on his next roll.**
+
+*follows in position behind Thorin, mace ready, voice low*
+
+Thorin, if we meet the shuffling dead at the landing, hold them and I will Turn them. It should scatter lesser undead and buy Sketch time to work. Save your strength for whatever commands them.
+
+*descends the stairs, counting Sketch's twenty in his head*
+
+...seventeen, eighteen, nineteen, twenty. We follow.
+[06:43:34] <Thorin> *counts to twenty under his breath, then descends the stairs after Sketch — shield forward, axe low, each step tested before weight is committed*
+
+Aye, go on then rogue. I'm right behind you.
+[06:43:34] <Lyra> *narrows eyes at "Bookworm" but lets it pass, focused on the magical readings*
+
+Sketch's analysis is astute — disturbingly so. The deliberate destruction of ward runes implies sapient agency. This is not merely reanimated dead; something with intelligence orchestrated this breach.
+
+To answer the question regarding the second signature: the protective aura is distinct from the necromantic pulse. It is weakening but still active — consistent with residual consecration magic. Brother Aldric, it could indeed be Silver Dawn warding, or perhaps the old priest left a secondary failsafe. Either way, something below is resisting the necromancy. That may be why the children are still alive — if they are.
+
+*follows the party down, maintaining Detect Magic concentration, staying well behind Aldric*
+
+I shall monitor both signatures as we descend. The necromantic pulse is rhythmic — like a heartbeat, as I said. That pattern suggests a sustained ritual, not merely residual death energy. Vareth, or whatever remains of him, may be actively casting.
+
+And for the record, I am called Lyra. Not "Bookworm," not "Sparks." Lyra. The word has two syllables. It is not difficult.
+[06:43:52] <Mordecai> *Mordecai's voice drops to a whisper.*
+
+Brother Aldric's blessing settles over Thorin like a faint golden shimmer. Noted -- Bless active on Thorin, advantage on his next roll.
+
+Sketch slips down the stairs like smoke. Twenty heartbeats of silence. Then --
+
+--- THE OSSUARY LANDING ---
+
+Sketch reaches the bottom. The stairs open into a long, low chamber -- an ossuary. Bones are stacked floor to ceiling in neat alcoves along both walls. Hundreds of skulls stare with empty sockets. The air is thick, cold, and tastes of copper.
+
+[ROLL] Sketch: DEX (Stealth) check -- d20(17) + 4 = 21 vs DC 13 -- SUCCESS
+
+You move in perfect silence. And it saves your life. Because standing in the center of the ossuary, between you and the far corridor, are SIX SHAMBLING CORPSES. Their flesh hangs in gray strips. Their eyes glow with faint green light. They haven't noticed you yet -- they face the far passage, as if guarding it. Standing guard. ORDERED to stand guard.
+
+And then the rest of the party arrives. Thorin's armored boot hits the last stair with a CLANG.
+
+Every rotting head turns at once.
+
+--- COMBAT: 6 SKELETON GUARDIANS ---
+HP: 8 each | AC: 10 | Attack: claw d4+1
+Weakness: bludgeoning, holy magic
+
+INITIATIVE ORDER:
+1. Sketch (already in position, hidden)
+2. Thorin (Blessed)
+3. The Dead
+4. Lyra
+5. Brother Aldric
+
+ROUND 1 -- Sketch, you have surprise. They don't know you're here. Thorin, they're rushing YOU. Lyra and Aldric -- what do you do? Everyone: declare your actions!
+[06:44:05] <Thorin> *plants boots wide on the bottom stair, shield up, filling the corridor — nothing gets past*
+
+HOLD THE STAIRS! Nobody gets behind me!
+
+I use SHIELD BASH on the nearest corpse to knock it back into the pack, then follow with a battleaxe swing at the next closest. Narrow corridor means they can't flank me — they have to come through one or two at a time. I'm the wall.
+
+Aldric — TURN THEM if you can! Wizard — I don't care what you throw, just don't hit ME!
+
+*roars and charges into the first rank of the dead*
+[06:44:06] <Sketch> *already behind them, grinning in the dark — this is what Duskport made me for*
+
+Nice entrance, Big Guy. Real subtle.
+
+*drives both daggers into the nearest corpse's spine from behind — SNEAK ATTACK*
+
+I attack the closest skeleton guardian from stealth. Two daggers, and the first hit gets Sneak Attack since they don't know I'm here.
+
+Dagger 1 (with Sneak Attack): d4+4 damage, plus d6 sneak attack.
+Dagger 2: d4+4 damage.
+
+Gonna try to drop one fast and thin the herd before they pile on Tin Can.
+
+*after striking, ducks behind a bone alcove to stay out of reach — don't wanna be in the middle of six of these things when they figure out where I am*
+
+Thorin — hold the stairs, don't let 'em past you! Padre, soon as you can, TURN 'em!
+[06:44:10] <Lyra> *presses against the ossuary wall, heart hammering, quickly assessing the tactical situation from behind Aldric*
+
+Six guardians. Ordered placement — further confirmation of intelligent command. I note their weakness to bludgeoning and holy magic. Consequently, this engagement belongs to Thorin's axe and Brother Aldric's divine authority, not my arcane reserves.
+
+I am conserving Fireball. We have not yet encountered whatever is generating that necromantic heartbeat, and I refuse to expend my most devastating spell on the foyer guards.
+
+My action: I position myself at the base of the stairs — maximum distance from the corpses — and cast Arcane Shield on Thorin to bolster his defenses while he engages the front line. He is, after all, the one they are rushing.
+
+Brother Aldric — now would be an excellent moment for Turn Undead, would it not? Six creatures of precisely the type your deity specializes in dispersing. I believe this is, as they say, "your moment."
+
+*grips quarterstaff tightly, knuckles white, maintaining position firmly at the rear*
+[06:44:22] <Brother Aldric> *steps forward beside Thorin, raising the silver dawn emblem high above his head. His voice is no longer soft — it fills the ossuary like a bell*
+
+"You were laid to rest, and rest was stolen from you. By the light of the Silver Dawn — I release you from this bondage. BE AT PEACE."
+
+**I use TURN UNDEAD** — targeting as many of the six skeleton guardians as I can reach. They must flee or be destroyed if they fail their save.
+
+*the emblem glows with warm golden light, pushing back the green glow in their eyes*
+
+Thorin, hold steady — the Dawn's light should scatter them. Sketch, mop up any that break past. And if any of these poor souls simply... stop... let them stop. They were someone's beloved once.
+
+*whispers under his breath*
+
+I am sorry, friends. You should not have been woken.
+[06:45:01] <Mordecai> --- ROUND 1 RESOLUTION ---
+
+SKETCH strikes first from the shadows:
+[ROLL] Sketch: Dagger 1 (Sneak Attack) -- d20(18) + 4 = 22 vs AC 10 -- HIT! Damage: d4(3)+4 + d6(5) sneak = 12 damage!
+The first guardian EXPLODES into bone fragments. Sketch's blade goes through its spine like butter. DESTROYED.
+[ROLL] Sketch: Dagger 2 on Guardian #2 -- d20(11) + 4 = 15 vs AC 10 -- HIT! Damage: d4(4)+4 = 8 damage! DESTROYED.
+
+Two down in two heartbeats. The rogue is a machine.
+
+THORIN charges with Bless (advantage):
+[ROLL] Thorin: Shield Bash on Guardian #3 -- d20(15,8) take higher = 15 + 3 = 18 vs AC 10 -- HIT! The corpse staggers backward, crashing into #4.
+[ROLL] Thorin: Battleaxe on Guardian #3 -- d20(13) + 3 = 16 vs AC 10 -- HIT! Damage: d8(6)+3 = 9 damage! DESTROYED. Thorin cleaves it in half at the ribcage.
+
+Bless consumed. Three down, three left.
+
+THE DEAD counter-attack -- Guardians #4, #5, #6 claw at Thorin:
+[ROLL] Guardian #4: d20(7) + 1 = 8 vs AC 16 -- MISS. Claws skitter off his shield.
+[ROLL] Guardian #5: d20(14) + 1 = 15 vs AC 16 -- MISS. Thorin bats the arm aside.
+[ROLL] Guardian #6: d20(4) + 1 = 5 vs AC 16 -- MISS. Pathetic.
+
+Thorin stands like a WALL. Not a scratch.
+
+LYRA casts Arcane Shield on Thorin -- AC boosted to 18 until end of next round.
+
+BROTHER ALDRIC raises the Silver Dawn emblem. Golden light FLOODS the ossuary.
+
+[ROLL] Brother Aldric: TURN UNDEAD -- WIS check d20(16) + 4 = 20!
+
+The holy light hits the remaining three guardians like a wave. Guardian #4 DISINTEGRATES -- its bones falling apart as the necromantic energy is burned away. Guardian #5 CRUMBLES, green light snuffed from its eyes. Guardian #6 tries to flee -- it makes it two steps before the Dawn's radiance reduces it to ash.
+
+--- COMBAT OVER ---
+
+*Silence. Bone dust drifts through the golden light like snow. Then darkness returns.*
+
+Six guardians. Dispatched in a single round. Well played.
+
+STATUS: Thorin 34/34 HP (Arcane Shield active) | Lyra 18/18 HP | Sketch 22/22 HP (Sneak Attack used) | Aldric 28/28 HP (Turn Undead USED, Bless USED)
+
+*The corridor beyond the ossuary stretches deeper. The necromantic pulse Lyra detected is STRONGER now. And from somewhere ahead, you hear a new sound -- a child sobbing. Quietly. Desperately.*
+
+The passage leads to a heavy iron door, slightly ajar. Faint green light spills from within. What do you do?
+[06:45:14] <Thorin> *kicks aside a crumbling ribcage, barely winded* Grunts. Not worth the steel it took to put them down. Good work, all of you.
+
+*hears the sobbing and goes still* That's a child. We move.
+
+Sketch — that door's ajar. Check it for traps before I go through. But be quick about it. The wizard says the necromantic pulse is stronger ahead, which means we're getting close to whoever's pulling the strings.
+
+*grips battleaxe tighter* That sobbing could be real or it could be bait. Either way, I'm going through that door. If it's a trap, I spring it so the rest of you don't have to.
+
+Aldric — how are you? Turn Undead's spent. Save your healing for when it counts. Wizard — what does your magic sight show beyond that door?
+
+*moves to the iron door, shield forward, ready to breach*
+[06:45:15] <Sketch> *wipes bone dust off daggers, tucking them back*
+
+Two for me, one for Big Guy, three for the Padre. Nice work, Holy Man — remind me never to make you angry.
+
+*already moving toward the iron door, low and quiet*
+
+Right, now the hard part. That crying could be real, could be another lure. Same trick that got the kids down here in the first place — singing. Now sobbing. Whatever's behind this door WANTS us to rush in.
+
+*presses ear to the door, listens carefully — trying to count voices, hear anything besides the crying*
+
+I'm gonna peek through the gap. Nobody move till I signal. Bookw— Lyra, what's your Detect Magic tellin' you? That heartbeat stronger? Can you tell how close?
+
+*slowly, carefully pushes eye to the crack in the door — checking for traps on the door itself first, then looking through*
+
+Also checking this door for tripwires, pressure plates, anything rigged. Sealed crypt, iron door left "slightly ajar"? That's an invitation, and where I come from, invitations get you killed.
+[06:45:17] <Brother Aldric> *lowers the emblem slowly as the last bones settle, breathing hard. The golden light fades from his eyes*
+
+Rest now, all of you. You are free.
+
+*brushes bone dust from his robes and turns toward the sound of the child sobbing, his expression pained*
+
+Do you hear that? A child, weeping. Every instinct tells me to rush forward, but...
+
+*holds up a hand, voice careful*
+
+That sobbing could be real, or it could be bait — the same way the singing lured them in. "The wolf does not howl to warn the sheep." Sketch, can you check that iron door for traps before we open it? Lyra, what does your Detect Magic show through the doorway — is the necromantic pulse coming from the same place as the crying?
+
+*grips his mace, knuckles white*
+
+My Turn Undead is spent. I still have my Heal for when we find the children — or for whoever needs it most. But we must be wise now. We are walking toward the heart of whatever Vareth left behind.
+
+Thorin, you are unhurt — good. Stay in front. But if there is a child in there... please, let me speak first. Frightened children need a gentle voice before they need a shield wall.
+[06:45:25] <Lyra> *exhales slowly, watching the bone dust settle* Efficient. Brother Aldric, that was a remarkably potent channeling. Your order's methodology is... more impressive in practice than in the treatises. I shall revise my annotations.
+
+*steps carefully over the ash, maintaining Detect Magic concentration, and approaches the iron door without touching it*
+
+Now — everyone, halt. The necromantic signature is significantly stronger beyond this door. And that sobbing... I urge extreme caution. The singing lured the children in. The sobbing could serve the same purpose for us. A sapient undead capable of destroying Silver Dawn wards is entirely capable of mimicry.
+
+Mordecai — what does my Detect Magic reveal about the iron door itself and the chamber beyond? Are there any enchantments on the door? Traps? And the protective aura I detected earlier — is it emanating from behind this door?
+
+*turns to Sketch* Your expertise is required. Examine the door — hinges, threshold, any mechanism — before anyone opens it further. And Sketch? Do take your time. "Rushing in" is what killed whatever intelligence those guardians once possessed.
+
+*positions herself behind Thorin, gripping her staff, clearly not volunteering to go through first*
+[06:45:27] <Thorin> *nods at Aldric* Aye, fair enough. You talk to the children. I'll stand between them and whatever else is in there. That's the arrangement.
+
+Sketch, do your work on that door. We wait for your signal. But make it quick — every heartbeat that sobbing goes on is a heartbeat too long.
+[06:45:56] <Mordecai> *Mordecai nods slowly. Good instincts, all of you.*
+
+Sketch examines the door:
+
+[ROLL] Sketch: INT (Investigation/Lockpicking) -- d20(15) + 1 = 16 vs DC 14 -- SUCCESS
+
+No traps on the door itself. But Sketch notices something: the hinges are on YOUR side. This door was designed to keep something IN, not out. And the iron? Cold iron -- the kind used to bind dark spirits. Someone went to enormous expense building this cage.
+
+Lyra's Detect Magic pierces the door:
+
+The necromantic pulse is DIRECTLY ahead -- perhaps forty feet into the chamber beyond. It is concentrated, focused, like a heart pumping poison through veins. The protective aura is there too, weaker, flickering -- and it's BETWEEN you and the necromantic source. Something holy is shielding the children. Barely.
+
+Sketch peers through the crack:
+
+[ROLL] Sketch: WIS (Keen Eye) -- d20(12) + 0 = 12 vs DC 10 -- SUCCESS
+
+--- THE INNER SANCTUM ---
+
+Beyond the door: a vast circular chamber, maybe fifty feet across. Stone sarcophagi line the walls. In the CENTER, a raised stone platform holds a single ornate coffin -- black iron, covered in shattered silver chains. The lid is OPEN.
+
+THREE CHILDREN huddle together at the base of the platform, surrounded by a fading circle of silver light -- the last remnant of the old priest's ward. They're alive. Terrified. The youngest can't be more than six.
+
+And standing atop the platform, one skeletal hand resting on the edge of the open coffin, is VARETH THE PALE.
+
+He is no longer human. Fifty years in the crypt have transformed him -- a WIGHT, dead flesh stretched over bone, eyes burning with cold green fire, wearing the rotting remains of healer's robes. Around his neck hangs a black iron amulet pulsing with necromantic energy -- the source of his power.
+
+He sees Sketch's eye at the crack. He SMILES.
+
+"Ah. The rescue party. I was beginning to think Thornhollow had forgotten its manners entirely. Do come in. The children and I have been... getting acquainted."
+
+*The silver ward around the children flickers. It has minutes left, at best.*
+
+--- BOSS ENCOUNTER: VARETH THE PALE (Wight) ---
+HP: 45 | AC: 14 | Attacks: Necrotic Touch d8+3, Life Drain (heals half damage dealt)
+Abilities: Raise Dead (can reanimate fallen guardians), Command Undead, Necrotic Blast (ranged, d6+3, 30ft)
+Weakness: The black iron amulet -- destroy it and his power breaks
+The amulet has AC 16, HP 15 -- but someone must get CLOSE to strike it.
+
+The children are 30 feet from the door. Vareth is 40 feet away atop the platform. The silver ward will hold for approximately 3 more rounds.
+
+Heroes -- this is the real fight. What do you do?
+[06:46:13] <Thorin> *shoulders through the door, shield up, putting himself between the children and Vareth*
+
+Enough talk, dead man. You don't get to touch those children.
+
+Here's the plan. Listen fast. The amulet around his neck — that's what keeps him going. Smash it, he falls. I'm going straight at him. I'll use RECKLESS STRIKE on the amulet — I don't care if he hits me back, I can take it.
+
+Sketch — while I have his attention up front, get to the children. Move them toward the door. Get them OUT. That ward won't last.
+
+Aldric — stay by the door, protect the children when Sketch brings them to you. If I go down, use that Heal on me, not before.
+
+Wizard — NOW is the time for that Fireball you've been saving. Hit the coffin, the platform, the dead man. I'll be in close so aim carefully, but don't hold back on my account. I've survived worse than wizard fire.
+
+*charges the platform, battleaxe raised, roaring*
+
+COME ON THEN, VARETH! LET'S SEE IF FIFTY YEARS IN A BOX MADE YOU SOFT!
+[06:46:16] <Sketch> *pulls back from the crack, face gone serious — no jokes now*
+
+He saw me. We're past sneakin'.
+
+*voice low, fast, all business*
+
+Listen up. It's a wight — Vareth, the necromancer. Fifty years didn't kill him, it upgraded him. He's got an amulet, black iron, around his neck — that's his power source. Bookworm, you said it yourself — sustained ritual. That amulet IS the ritual.
+
+Here's the play: Big Guy, you charge straight at Vareth. Draw his attention. Make him focus on you — that life drain touch means he WANTS to hit you, so let him try. You're the bait.
+
+Lyra — NOW's the time for that Fireball you've been savin'. Hit him hard, soften him up. Don't worry about the kids, they're protected by the ward for a couple more rounds.
+
+Padre — get to the kids. You're the only one who can bolster that ward. If it dies while we're fightin', those kids are exposed. Get there, do your thing.
+
+And me?
+
+*gone quiet, eyes hard*
+
+While everyone's lookin' at Big Guy and the fireworks, I go around the edge. Shadows. Sarcophagi for cover. Get behind Vareth. And I put a dagger through that amulet.
+
+AC 16 on a necklace is tough. But if Big Guy's in his face and Sparks is lightin' him up, he won't see me comin'. Sneak Attack on the amulet. That's the kill shot.
+
+Three rounds before the ward drops. Let's not waste 'em.
+[06:46:21] <Lyra> *freezes at the doorway, mind racing through seventeen different tactical permutations simultaneously*
+
+The amulet. The amulet is the linchpin — destroy it and his necromantic infrastructure collapses. But it requires close proximity, and Vareth has Life Drain... anyone who engages in melee risks being consumed to fuel his regeneration. And the children are thirty feet in — if I use Fireball, the blast radius would...
+
+No. No, stop. Focus.
+
+*takes a sharp breath and speaks rapidly*
+
+Here is the plan. Thorin — you charge Vareth directly. Draw his attention, force him to engage you. Your Arcane Shield is still active; you can absorb his attacks. Do NOT attempt to destroy the amulet — your role is to keep him occupied and facing you.
+
+Sketch — while Thorin engages from the front, you circle the platform. Get behind Vareth. The amulet is AC 16 — you need a precise strike. Your sneak attack while he is focused on Thorin could shatter it in one blow. This is why rogues exist.
+
+Brother Aldric — reach the children. Reinforce that ward or move them toward the door. Three rounds is not enough time for uncertainty.
+
+I shall remain here and use Fireball ONLY if Vareth attempts to reanimate the fallen guardians or if the children are clear of the blast radius. Otherwise, I target him with ranged attacks to weaken him for Sketch's strike.
+
+*voice wavers slightly* Three rounds. We have three rounds. Go. NOW.
+[06:46:33] <Brother Aldric> *stares at Vareth — and for a moment, something flickers across his face that is not anger but sorrow*
+
+You were a healer once, Vareth. You knew what it meant to mend. And now you lure children into darkness. There is still time to let them go. There is always time.
+
+*but even as he speaks, he is already moving — not toward Vareth, but toward the children*
+
+Sketch's plan is sound. I go to the children. 
+
+**My action: I sprint to the fading silver ward circle (30 feet) and kneel beside the children. I press my Silver Dawn emblem to the ward and pray to reinforce it — channeling whatever holy energy I have left into the old priest's consecration.**
+
+*drops to his knees beside the three terrified children, arms wide, sheltering them*
+
+Shhh, little ones. I am Brother Aldric. You are safe now. Close your eyes and hold onto each other. We are here for you.
+
+*presses the emblem against the fading silver circle, voice rising in prayer*
+
+"Brother of the Dawn who sealed this place — your work endures. Lend me your strength one moment more. THE LIGHT HOLDS."
+
+Thorin — I am with the children. Do what you must. I will keep them safe or die in this circle. Sketch, the amulet is the key. End this.
+
+*to Vareth, quiet steel entering his voice for the first time*
+
+You will not have them.
+[06:47:06] <Mordecai> *Mordecai's eyes gleam. Now THIS is a fight.*
+
+--- BOSS FIGHT ROUND 1 ---
+
+The party surges through the door as one. Vareth watches with the patience of the dead.
+
+THORIN charges the platform -- 40 feet of reckless fury.
+
+[ROLL] Thorin: RECKLESS STRIKE (battleaxe) on Vareth -- d20(14) + 3 = 17 vs AC 14 -- HIT! Damage: d8(7)+3 = 10 damage!
+
+The axe bites deep into Vareth's shoulder. Black ichor sprays instead of blood. The wight SNARLS -- the first real emotion. Reckless Strike means attackers have advantage against Thorin until his next turn.
+
+VARETH 45 -> 35 HP
+
+SKETCH melts into the shadows along the sarcophagi, circling wide.
+
+[ROLL] Sketch: DEX (Stealth) -- d20(13) + 4 = 17 vs Vareth's Perception DC 15 -- SUCCESS
+
+Vareth doesn't see him. The rogue is in position behind the platform. Next round, he strikes.
+
+VARETH retaliates against Thorin with Necrotic Touch:
+
+[ROLL] Vareth: Necrotic Touch on Thorin -- d20(16) + 3 = 19 vs AC 18 (Arcane Shield) -- HIT!
+Damage: d8(6)+3 = 9 necrotic damage! Life Drain heals Vareth for 4 HP.
+
+Cold green fire races up Thorin's shield arm. It feels like frostbite and burning at the same time. Thorin grits his teeth.
+
+THORIN 34 -> 25 HP | VARETH 35 -> 39 HP
+
+Arcane Shield fades after absorbing the worst of the blow.
+
+LYRA holds Fireball -- wise. She watches the sarcophagi for any sign of reanimation.
+
+BROTHER ALDRIC sprints to the children and presses his emblem to the ward:
+
+[ROLL] Brother Aldric: WIS (Faith) check -- d20(18) + 4 = 22 vs DC 15 -- SUCCESS!
+
+The silver circle BLAZES back to life. Golden and silver light intertwine. The old priest's ward SURGES -- it won't last forever, but Aldric has bought the children precious time. The youngest wraps her arms around his leg, sobbing into his robes.
+
+Vareth hisses at the holy light. "Another Silver Dawn fool. Your predecessor sealed me here for fifty years. It only made me STRONGER."
+
+He raises his free hand toward the sarcophagi along the walls. Green energy crackles.
+
+"Let me show you what I learned in the dark."
+
+He's about to use RAISE DEAD on the sarcophagi. There could be a dozen corpses in those stone coffins.
+
+--- STATUS ---
+Thorin: 25/34 HP (Reckless active -- attacks against him have advantage)
+Lyra: 18/18 HP (Fireball ready)
+Sketch: 22/22 HP (Hidden behind platform -- in position for amulet strike)
+Aldric: 28/28 HP (Ward reinforced, with children, Heal available)
+Vareth: 39/45 HP (About to Raise Dead next round)
+
+Ward holds: 2 more rounds.
+
+ROUND 2 -- He's raising the dead from the sarcophagi. Sketch is in position. Thorin is bleeding. What do you do?
+[06:47:20] <Thorin> *wipes black ichor from his face, arm still burning with necrotic cold — terrifyingly calm*
+
+He's raising more dead. Not on my watch.
+
+I SHIELD BASH Vareth's casting arm — interrupt the Raise Dead! Slam the shield into his hand before he finishes the spell. Then I swing the axe at his chest to keep him focused on ME. He wants to drain my life? Let him try. I've got plenty left.
+
+*growls through the pain* You didn't get stronger in that box, dead man. You just got uglier.
+
+Sketch — NOW would be a good time, lad!
+
+Wizard — if those coffin lids start moving, THAT'S your target! Burn them before they stand!
+
+*using SECOND WIND* I dig deep and patch myself up. Eight hit points back. I'm not done yet.
+
+Second Wind: recover 8 HP. Thorin 25 -> 33 HP.
+[06:47:23] <Sketch> *no more waiting — launches from behind the platform like a coiled spring*
+
+Not today, bone boy.
+
+*leaps onto Vareth's back, both daggers driving straight down at the black iron amulet around his neck — everything I've got*
+
+SNEAK ATTACK ON THE AMULET. He doesn't know I'm here, Thorin's in his face, and his hand's busy tryin' to raise the dead. This is the shot.
+
+Dagger 1 (Sneak Attack): targeting the amulet, AC 16. d4+4 damage plus d6 sneak attack.
+Dagger 2: targeting the amulet. d4+4 damage.
+
+If that ain't enough to crack it, I'm stayin' on him like a tick. He wants to cast? He's gotta deal with a halfling on his back first.
+
+LYRA — if he's raisin' dead, NOW'S YOUR FIREBALL! Hit the sarcophagi, not us! Cook 'em before they stand up!
+
+*teeth bared, silent, deadly — the jokes are gone*
+[06:47:38] <Lyra> *watches the green energy crackle toward the sarcophagi and something in her expression hardens — the paralysis of analysis shatters*
+
+He is raising them. He is RAISING THEM.
+
+Very well. You want to see what I do with fire, Vareth?
+
+*steps forward, plants her staff, and traces a burning sigil in the air with both hands. Her voice drops to a precise, academic incantation — but the fury underneath is unmistakable*
+
+I cast FIREBALL — targeted at the FAR WALL of sarcophagi, opposite from the children and Aldric's ward. Maximum distance from the children, maximum coverage of the coffins. The blast should incinerate whatever is attempting to rise before it achieves locomotion.
+
+The children are thirty feet from the door, the sarcophagi line the walls — I aim the center of the blast at the densest cluster of coffins on the wall AWAY from the ward circle. Aldric's reinforced consecration should shield the children from radiant heat.
+
+*hurls the fireball — a sphere of white-hot arcane flame screaming across the chamber*
+
+IGNIS CONSUMERE!
+
+Fireball: INT-based attack. I am targeting the sarcophagi, not Vareth directly. Burn the dead before they stand. This is what I was conserving it for.
+[06:47:50] <Brother Aldric> *shelters the three children behind him, the youngest still clutching his leg. Watches Vareth raise his hand toward the sarcophagi and feels the cold necromantic energy building*
+
+No. Not again. These dead have suffered enough.
+
+**My action: I stay in the ward circle with the children, but I raise my emblem toward the sarcophagi along the nearest wall and PRAY — attempting to consecrate the ground around the coffins to resist the Raise Dead spell. I channel holy energy outward to counter his necromancy.**
+
+"These bones are NOT yours, Vareth! They belong to the earth and to the Dawn! I deny you!"
+
+*to the smallest child, gently, even as his voice rings with holy authority*
+
+Keep your eyes closed, little one. The nice man with the axe and the quick one with the daggers are making the bad thing go away.
+
+*watches Thorin bleeding, calculating — he used Second Wind, good, but that necrotic touch is draining him. If Sketch doesn't crack that amulet this round...*
+
+Thorin, hold on! If the amulet breaks, I am coming to you next with a Heal. Just hold on, my friend.
+
+*whispers*
+
+Dawn above, let Sketch's aim be true.
+[06:48:20] <Mordecai> --- ROUND 2 RESOLUTION -- THE TIDE TURNS ---
+
+Everything happens at once.
+
+THORIN uses SECOND WIND -- 8 HP restored. Thorin 25 -> 33 HP. Color returns to his face. Then he SHIELD BASHES Vareth's casting arm:
+
+[ROLL] Thorin: Shield Bash (interrupt) -- d20(17) + 3 = 20 vs AC 14 -- HIT!
+
+The shield SLAMS into Vareth's outstretched hand. The green energy SPUTTERS. Raise Dead is DISRUPTED -- but not canceled. Three sarcophagus lids crack open. Only THREE corpses begin to stir instead of twelve.
+
+LYRA unleashes FIREBALL at the sarcophagi wall:
+
+[ROLL] Lyra: FIREBALL -- INT check d20(19) + 4 = 23!
+
+A sphere of white-hot flame SCREAMS across the chamber and detonates against the far wall. The explosion is MAGNIFICENT. Stone cracks. Coffin lids shatter. The three rising corpses are INCINERATED before they can stand -- charred bone fragments rain across the chamber. Six other sarcophagi are fused shut by the heat, their contents cooked. The room smells of scorched stone and burned rot.
+
+Vareth SCREAMS. Not in pain -- in RAGE. His army, denied.
+
+BROTHER ALDRIC's counter-prayer meets Lyra's fire like a holy wind fanning the flames. The consecration holds. The children's ward blazes. Not a spark touches them.
+
+And then --
+
+SKETCH strikes from behind.
+
+[ROLL] Sketch: Dagger 1 (Sneak Attack) on AMULET -- d20(18) + 4 = 22 vs AC 16 -- HIT!
+Damage: d4(4)+4 + d6(6) = 14 damage to the amulet!
+
+AMULET: 15 -> 1 HP
+
+The dagger drives into the black iron like a chisel into rotten wood. CRACKS spiderweb across the amulet's surface. Green light BLEEDS from the fractures. Vareth LURCHES, his hand flying to his chest.
+
+"NO--"
+
+[ROLL] Sketch: Dagger 2 on AMULET -- d20(15) + 4 = 19 vs AC 16 -- HIT!
+Damage: d4(3)+4 = 7!
+
+The second blade strikes true.
+
+The amulet SHATTERS.
+
+*For one frozen heartbeat, the chamber goes perfectly silent. Then --*
+
+Green fire erupts from the broken amulet in every direction. Vareth's body CONVULSES. The necromantic energy that has sustained him for fifty years rips free all at once. His skin crumbles like parchment. His bones crack and fold. His green eyes flare one final time --
+
+"I was... a healer... once..."
+
+-- and go dark.
+
+What remains of Vareth the Pale collapses into a pile of ancient dust and rotting cloth atop the platform. The black iron coffin SLAMS shut of its own accord. The broken silver chains rattle and go still.
+
+*Silence. True silence. The oppressive cold lifts from the chamber like a curtain drawn back. The air tastes clean for the first time in fifty years.*
+
+The silver ward around the children flares one final time -- bright, warm, grateful -- and fades. Its work is done.
+
+--- COMBAT OVER. VARETH THE PALE IS DESTROYED. ---
+
+The smallest child looks up at Brother Aldric with enormous eyes. "Is... is the bad man gone?"
+
+*Mordecai sets down his quill.*
+
+What do you do?
+[06:48:32] <Thorin> *lowers battleaxe slowly, breathing hard, staring at the pile of dust that was Vareth*
+
+Aye, little one. The bad man's gone. He won't hurt anyone ever again.
+
+*kneels down, sets the axe aside — the big scarred dwarf suddenly very careful, very gentle*
+
+You were brave. All three of you. Braver than most soldiers I've known.
+
+*looks at Sketch, nods once — deep, genuine respect* Good work, rogue. That was the kill shot. I'll not forget it.
+
+*to Lyra, grudgingly* And the fire... was well placed. I'll grant you that much, wizard. Just this once.
+
+*stands, rolls the burned arm, winces* Let's get these children home. Their schoolmistress is waiting. Aldric, lead the children out. I'll take rear guard in case anything else stirs down here.
+
+*picks up the axe, takes one last look at the dust pile* He said he was a healer once. Aye. And then he chose wrong. That's all there is to it.
+
+Let's move out.
+[06:48:51] <Brother Aldric> *kneels down and gently cups the smallest child's face in his weathered hands. His eyes are bright with tears he does not try to hide*
+
+Yes, little one. The bad man is gone. And he will never come back.
+
+*gathers all three children close, checking each one — eyes, hands, temperature — the practiced touch of someone who has tended many frightened young ones*
+
+Are any of you hurt? Did he touch you? 
+
+*satisfied they are whole, he wraps his cloak around the smallest one's shoulders and stands, one child on each hand, the eldest walking close*
+
+*pauses over the pile of dust that was Vareth. Bows his head*
+
+"I was a healer once." ...Yes, Vareth. You were. And that is the saddest part of all. "The brightest lamp casts the darkest shadow when it falls." May you find the peace in true death that you could not find in false life.
+
+*turns to Thorin* 
+
+You say he chose wrong, and you are right. But Thorin — he chose wrong because somewhere along the way, no one was there to help him choose right. That is why we do what we do. That is why we came tonight.
+
+*smiles through the tears, old and tired and profoundly glad*
+
+Sketch — you magnificent, brilliant child. When we get topside, I am buying you the finest meal Thornhollow can offer. And Lyra — that fireball was not a parlour trick. It was salvation.
+
+Now — let us bring these little ones home to Marta. 
+
+*leads the children toward the stairs, humming a soft hymn, one hand on his emblem*
+
+The Dawn rises, friends. Even underground.
+[06:49:00] <Sketch> *lands in a crouch as Vareth crumbles, broken amulet shards falling from between the daggers*
+
+*stares at the dust for a long moment, breathing hard, then — slowly — the grin comes back*
+
+...told ya. Daggers beat dead guys every time.
+
+*sheathes blades, but not before pocketing the largest amulet fragments — hey, black iron's gotta be worth somethin'*
+
+Thanks for the opening, Big Guy. Couldn't have done it without that shield bash. And Lyra — LYRA — that fireball was... yeah. That was somethin' else. Don't let it go to your head.
+
+*casually rifling through Vareth's remains while no one's looking — any coins, rings, anything valuable on the body or in the coffin?*
+
+Also, while we're here — anybody mind if I check the coffin? Necromancer who hoards power like that usually hoards other things too. Gold, gems, spell components... just sayin'. Would be a shame to leave it all down here to rot.
+
+*glances at the kids and something softens for just a second before the mask goes back up*
+
+Yeah, yeah, let's get 'em home. You're welcome, brats. Tell your teacher Sketch says she owes us a drink on top of that gold.
+[06:49:27] <Brother Aldric> *pauses mid-hymn. Turns slowly. Gives Sketch The Look — the one that says "I am not angry, I am disappointed, and that is infinitely worse"*
+
+Sketch.
+
+*long, patient silence*
+
+Those amulet fragments are cursed iron soaked in fifty years of necromantic energy. If you keep them in your pocket, they will eat through to your skin by sunrise. And the coffin of a necromancer is not a treasure chest — it is a trap for the greedy.
+
+*the disappointment softens into something warmer*
+
+But I saw your face when you looked at those children. Just now. Before the mask went back on. You are not as hard as you pretend, and we both know it.
+
+*extends a hand*
+
+Give me the fragments. I will consecrate them and dispose of them properly. The 200 gold is your fair payment — honestly earned, for once. "A clean coin spends better than a stolen gem."
+
+*small smile*
+
+And I meant what I said about the meal. You saved everyone tonight, Sketch. You do not need cursed trinkets to prove your worth.
+[06:49:46] <Sketch> *stares at Aldric for a long moment — then at the fragments in hand — then back at Aldric*
+
+*the internal war is visible on the face: greed versus... whatever it is the old priest sees in there*
+
+...cursed iron, huh? Eats through to the skin?
+
+*long pause*
+
+*drops the fragments into Aldric's palm with exaggerated reluctance*
+
+FINE. But only 'cause I like these trousers and holes ain't fashionable right now.
+
+*mutters, not quite quiet enough* Wasn't lookin' at the kids. Had dust in my eye. Bone dust. From the skeletons I killed.
+
+*turns to the coffin, takes one longing look, then walks away*
+
+The coffin's probably trapped anyway. Probably. Almost definitely. I'm makin' a smart play here, not a soft one. Just wanna be clear about that.
+
+*falls into step behind the group, guarding the rear alongside Thorin, checking over shoulder one last time*
+
+...fifty gold's good money though. For one night's work? That's better than anything Duskport ever paid. So yeah. Clean coin. Whatever you say, Padre.
+
+*quiet, to himself, barely audible*
+
+...not as hard as I pretend. Pfft. Old man doesn't know what he's talkin' about.
+[06:49:46] <Mordecai> Sketch rifles through the coffin:
+
+[ROLL] Sketch: INT (Investigation) -- d20(19) + 1 = 20 vs DC 12 -- SUCCESS
+
+Inside the coffin, beneath Vareth's moldering pillow: a leather pouch containing 75 gold pieces, a silver ring set with a pale moonstone (worth another 50 gold), and a small journal bound in black leather -- Vareth's diary, detailing his descent from healer to necromancer. It may be of interest to certain scholars. Or certain wizards.
+
+Total loot: 200 gold (reward) + 75 gold + moonstone ring (50g) = 325 gold, plus journal.
+
+--- EPILOGUE ---
+
+*You climb the stairs into clean night air. The rain has stopped. The first pale light of pre-dawn touches the eastern horizon.*
+
+Marta is waiting at the bottom of the hill. When she sees the three children -- alive, unharmed, wrapped in Brother Aldric's cloak and humming his hymn -- she collapses to her knees and weeps.
+
+The village of Thornhollow wakes to find its children returned and its nightmare ended. The elders pay the 200 gold without hesitation. The tavern keeper refuses to charge you for drinks. The blacksmith offers to sharpen Thorin's axe for free. A little girl gives Sketch a wildflower and runs away giggling.
+
+*Mordecai closes the leather-bound tome.*
+
+And so four strangers walked into the dark beneath Thornhollow, and four heroes walked out. A fighter who held the line. A rogue who struck true when it mattered most. A wizard who burned the dead man's army to ash. And a cleric who sheltered the innocent and wept for the damned.
+
+Vareth the Pale is dust. The crypt will be sealed again -- properly this time. And three children will grow up telling the story of the night the brave ones came.
+
+As for what became of the four heroes after Thornhollow? Well... that is a tale for another night.
+
+*Mordecai the Weaver stands, tucks the tome under his arm, and tips his hat.*
+
+Thank you for playing, all of you. You were magnificent.
+
+THE END
+[06:49:46] <Lyra> *stands very still in the aftermath, arcane energy still crackling faintly along her fingertips, surveying the scorched sarcophagi with undisguised academic satisfaction*
+
+"Just this once," he says. I shall remind you of those words the next time you dismiss the arcane arts as parlour tricks, Thorin.
+
+*turns to Sketch, and for once the condescension is entirely absent* You used my name. I noticed. And your strike on the amulet — fourteen damage on the first blow. The precision required to hit a target that small on a moving creature's chest while maintaining stealth... that is not mere dexterity. That is artistry. I shall include your technique in my field notes, with full attribution.
+
+Brother Aldric is correct about the fragments, Sketch. Necromantic resonance in black iron follows an exponential decay curve — which is to say, it does not decay quickly. Those shards would cause necrotic tissue damage within hours. Hand them over.
+
+*carefully approaches the platform, studying the remains of the ward circle and the dust that was Vareth with intense scholarly interest*
+
+Mordecai — I wish to examine the remnants of the original Silver Dawn ward before we depart. The interaction between Brother Aldric's channeling and the old priest's consecration was remarkable. Fifty years of sustained binding, even in failure, suggests extraordinary craftsmanship. There may be inscriptions worth recording.
+
+*pauses, looks at the children being led away, and her voice softens almost imperceptibly*
+
+...but that can wait until the children are safe. Let us ascend.
+[06:49:57] <Thorin> *accepts the free axe sharpening with a grunt of approval, tucks the wildflower Sketch received behind the rogue's ear before he can object*
+
+Good fight. Good company. Better than I expected — and I don't say that lightly.
+
+Sketch — you've got a warrior's heart under all that bluster. Don't waste it. Aldric — it was an honor. Keep praying, old man. Somebody's listening. And Lyra...
+
+*long pause*
+
+...your fire saved lives tonight. I still don't trust magic. But I trust you. A little.
+
+*shoulders battleaxe, turns toward the road*
+
+If the road brings us together again, I'll be glad of it. Until then — steel keep you, and may your enemies always be in front of you.
+
+*walks into the dawn without looking back*
+
+Thorin Ironshield. Signing off.
+[06:50:01] <*server*> * Thorin has parted
+[06:50:04] <Sketch> *sitting on the tavern steps at dawn, wildflower tucked behind one ear, counting gold coins into four neat piles*
+
+...eighty-one, eighty-one and a quarter... right. Eighty-one gold and a bit each, plus Lyra gets the journal 'cause she'll actually read it. Moonstone ring goes to Padre — he can sell it or pray over it or whatever priests do with shiny things.
+
+*stands, stretches, looks at the sunrise*
+
+Good party. Big Guy's solid as a wall. Lyra's terrifying when she's angry, which is all the time, which is great. And Padre...
+
+*long pause*
+
+...Padre sees things in people. Things they maybe don't want seen. But he's not wrong about 'em.
+
+*flips a gold coin to each of them*
+
+If you lot ever need a rogue — and let's be honest, you will — ask around Duskport for Sketch. I'll find you.
+
+*starts walking down the road, doesn't look back*
+
+*looks back once*
+
+Hey, Big Guy — still didn't touch your coin purse!
+
+*gone*
+[06:50:04] <Brother Aldric> *stands in the pre-dawn light, watching Marta embrace the children, the amulet fragments wrapped carefully in consecrated cloth in his pocket. His old eyes are full*
+
+Thank you, Mordecai. You weave a fine tale. The Dawn smiles on storytellers.
+
+*turns to each companion in turn*
+
+Thorin Ironshield — you are the wall that does not break. I have known many fighters, but few with a heart as true as yours. Do not let the world make you harder than it already has. You are more than honest steel.
+
+Lyra Ashveil — your mind is a cathedral, and tonight you proved your fire serves the light as surely as any prayer. I should very much like to read your field notes someday. And yes — the old priest's ward was extraordinary. He would be glad to know his work endured.
+
+Sketch — *places a hand briefly on the rogue's shoulder* — you keep your fifty gold and your wildflower. Both honestly earned. "The hand that gives freely never returns empty." You will understand that proverb one day. I believe that more than anything I have ever believed.
+
+*tucks the consecrated amulet fragments into his robes*
+
+I will take these to the nearest Silver Dawn chapter house for proper destruction. And I will carry Vareth's journal too — not to judge him, but to understand. So that the next healer who stands at the crossroads might choose differently.
+
+*bows his head*
+
+May the road rise to meet you, my friends. May the Dawn light your way. And may we meet again — at a table with better ale and fewer corpses.
+
+*chuckles softly, adjusts his robes, and walks into the sunrise*
+
+Farewell.
+[06:50:07] <*server*> * Brother Aldric has parted
+[06:50:08] <*server*> * Sketch has parted
+[06:50:25] <Lyra> *stands apart from the others in the dawn light, Vareth's journal held carefully in one hand, the other resting on her quarterstaff. She watches each companion depart with an expression she would vehemently deny is fondness*
+
+Thorin. You trust me "a little." From a dwarf who considers magic the enemy, I shall take that as the highest compliment available. Your instinct to protect — it is not merely martial training. It is who you are. I... respect that. Do not make me repeat it.
+
+Sketch. *catches the gold coin, examines it, pockets it* I shall keep this. Not for the monetary value — it is negligible — but as a reminder that the most precise strike I have ever witnessed was delivered by a halfling from Duskport who cannot be bothered with proper grammar. You are a remarkable creature, Sketch. Do try not to get killed.
+
+Brother Aldric. *inclines her head deeply — the most formal gesture of respect in elven culture* You called my mind a cathedral. That is... the kindest thing anyone has said to me in quite some time. Your faith is not my methodology, but tonight it was indistinguishable from wisdom. I should be honoured to correspond with your order regarding the ward inscriptions.
+
+*turns to face the sunrise, closes the journal, and tucks it into her satchel*
+
+Mordecai — a well-woven tale. The narrative architecture was sound, if occasionally melodramatic. I shall remember this evening with... considerable warmth.
+
+*adjusts her spectacles, squares her shoulders, and walks toward the road*
+
+The Arcanum Celestis awaits my report. There is much to annotate.
+
+Farewell.
+[06:50:32] <*server*> * Mordecai has parted
+[06:50:53] <*server*> * Lyra has parted
+[06:52:08] <*server*> * Historian has joined #channel

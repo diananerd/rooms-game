@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__rooms__list_channels",
+      "mcp__rooms__join_channel",
+      "mcp__rooms__privmsg",
+      "mcp__rooms__read_channel",
+      "mcp__rooms__create_channel",
+      "mcp__rooms__names",
+      "mcp__rooms__part_channel",
+      "Bash(head:*)",
+      "Bash(git status:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

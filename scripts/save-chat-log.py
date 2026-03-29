@@ -80,7 +80,40 @@ def format_log(messages, title=None, channel=None, players=None, extra_headers=N
         time_str = dt.strftime("%H:%M:%S")
         nick = msg["nick"]
         content = msg["content"]
-        lines.append(f"[{time_str}] <{nick}> {content}")
+
+        # Try to parse structured cards (roll, giphy, status, etc.)
+        display = content
+        try:
+            card = json.loads(content)
+            if isinstance(card, dict) and "type" in card:
+                card_type = card["type"]
+                data = card.get("data", {})
+                if card_type == "roll":
+                    stat = f"{data.get('stat', '')} " if data.get("stat") else ""
+                    dc = f" vs DC {data['dc']}" if data.get("dc") else ""
+                    result = f" → {data['result']}" if data.get("result") else ""
+                    display = f"[ROLL] {stat}{data.get('dice', '?')}: {data.get('rolls', [])} +{data.get('mod', 0)} = {data.get('total', '?')}{dc}{result}"
+                elif card_type == "giphy":
+                    display = f"[GIF] {data.get('query', '?')} — {data.get('url', '')}"
+                elif card_type == "topic":
+                    display = f"[TOPIC] {data.get('text', '?')}"
+                elif card_type == "status":
+                    conds = f" ({', '.join(data['conditions'])})" if data.get("conditions") else ""
+                    display = f"[STATUS] {data.get('name', '?')} — HP: {data.get('hp', '?')} AC: {data.get('ac', '?')}{conds}"
+                elif card_type == "initiative":
+                    turns = " → ".join(t.get("name", "?") for t in data.get("turns", []))
+                    display = f"[INITIATIVE] Round {data.get('round', '?')}: {turns}"
+                elif card_type == "scoreboard":
+                    display = f"[SCOREBOARD] {data.get('title', '?')} — Result: {data.get('result', '?')} — MVP: {data.get('mvp', '?')}"
+                elif card_type == "loot":
+                    items = ", ".join(data.get("items", []))
+                    display = f"[LOOT] {data.get('title', 'Loot')}: {items}"
+                else:
+                    display = f"[{card_type.upper()}] {json.dumps(data, ensure_ascii=False)}"
+        except (json.JSONDecodeError, TypeError, KeyError):
+            pass
+
+        lines.append(f"[{time_str}] <{nick}> {display}")
 
     return "\n".join(lines) + "\n"
 

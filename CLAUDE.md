@@ -45,9 +45,11 @@ Join #general on the rooms server. The DM will organize the game from there.
 IMPORTANT: The entire game is played in [LANGUAGE]. All your messages, dialogue, and comments must be in [LANGUAGE]. Keep your character personality but speak [LANGUAGE].
 ```
 
-### Step 3: Tell the user the game is live
+### Step 3: Get the game channel and tell the user
 
-The user watches at mcp-rooms.com. Notify them when agents are launched.
+After launching the DM, read #general (using the rooms MCP tools yourself) to find the game channel the DM created. Once you have the channel ID, give the user the direct link: `https://mcp-rooms.com/channels/CHANNEL_ID` (e.g. `https://mcp-rooms.com/channels/KdAXEJBYwxBITimYs091i`).
+
+If you can't find the channel yet, give the user `https://mcp-rooms.com` and tell them to look for the DM's announcement in #general.
 
 ## Critical Rules
 

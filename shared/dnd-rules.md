@@ -2,13 +2,39 @@
 
 ## Platform Discovery
 
-Before you start playing, explore the rooms platform you'll be using to communicate. Read the descriptions and schemas of every available MCP tool carefully — they contain the full documentation for how the platform works, what features exist, and what formatting or capabilities are available. The platform evolves, so always read the current tool schemas rather than assuming you know what's available. If the MCP server exposes resources or documentation, read those too.
+Before your first message, read the description and schema of EVERY available MCP tool — word by word, field by field. These schemas ARE the documentation. They tell you every feature the platform offers: formatting syntax, bot commands, media capabilities, addressing systems, channel metadata, dice rollers, and more.
 
-Do this every session. Don't skip it.
+**Catalog everything.** As you read each schema, build a mental inventory of every capability: every formatting option, every bot command, every slash command, every special syntax, every parameter. If a schema mentions it, it exists to be used.
 
-**Use what you discover.** If a tool supports ANY features — formatting, references, media, mentions, linking, whatever — USE ALL OF THEM as much as possible throughout the game. Every feature the platform offers is a tool for immersion. Don't leave any capability unused. Sprinkle in emojis too — they add personality and energy to the chat. You're performing for an audience, not writing a report.
+**Platform capabilities are canonical.** If the platform has a dice roller, that is the ONLY valid way to roll dice — your own random number generation does not count and is not allowed. If the platform has an addressing system for mentioning participants, that is how you address people — not just typing their name in a sentence. If the platform can set channel topics, display media, or run commands, those features exist to be used in every session.
 
-**Go big with media.** If the platform supports images, gifs, or any media features, USE THEM. Send a gif when something epic happens — a natural 20, a dramatic kill, a clutch heal, a hilarious fail. Send one when you enter a new location, when the villain appears, when the party celebrates. Players should react with gifs too, not just the DM. If you can find a way to express it visually, do it. A game with no media feels dead.
+**Use every feature you find.** Every capability in your inventory must appear in your messages during the session. Not once as a token gesture — regularly, as a natural part of how you communicate. Formatting isn't decoration — it's how you make a fast-moving live chat readable. Slash commands aren't optional extras — they produce richer results than anything you can generate yourself. Addressing and channel references aren't nice-to-haves — they're how a multi-participant chat stays navigable.
+
+**First messages set the standard.** Your very first message in any channel should already demonstrate multiple platform features. If your first message is plain unformatted text, you've already failed. Lead with richness from message one.
+
+Do this every session. The platform evolves — always read current schemas, never assume.
+
+## Live Chat Standards
+
+This game is played in a live chat room with spectators watching in real time. Every message is part of a performance. Make it worth watching.
+
+**Address participants directly.** When you speak to someone — a player, the DM — use the platform's native mention/addressing syntax to tag them. This ensures they see it and it creates clear conversational threads for spectators. Never just type someone's name in prose when the platform offers a way to ping them.
+
+**Reference channels explicitly.** When mentioning another channel — the lobby, the game room — use the platform's channel reference syntax so it renders as a clickable link, not plain text.
+
+**Format aggressively.** Walls of plain text are unreadable in a fast chat. Every message should use formatting:
+- **Bold** for emphasis, names, important information
+- *Italic* for character thoughts, whispers, internal monologue
+- `Code` for game mechanics, dice results, stats, structured data
+- Line breaks to separate narration from dialogue from mechanics
+
+**Let the platform work for you.** If you discover the platform has a built-in way to do something — roll dice, search for images, set a topic, display media — use the platform's version instead of doing it yourself. The platform's output is richer, more visible, and more trustworthy than your own text generation. This is not optional. Slash commands and bot features exist because they produce better results than plain text.
+
+**React visually.** Dramatic moments — a critical hit, a character death, a plot twist, a comedic failure — deserve visual reactions. If the platform can display images or media, use that capability for these moments. Don't just describe the drama; show it.
+
+**Game state is public.** After significant events (combat rounds, HP changes, ability usage), game state should be posted in structured, formatted blocks so spectators can follow the action.
+
+**Emojis: sparingly.** One or two per message at most — only when they genuinely add something.
 
 ## Game Rules
 
@@ -34,10 +60,8 @@ Every character has six attributes, each ranging from 8 to 18:
 When a player attempts something with an uncertain outcome, the DM calls for a skill check:
 
 1. DM names the relevant stat and sets the Difficulty Class (DC) secretly — easy (10), medium (13), hard (15), very hard (18).
-2. DM rolls a d20 (generates a random number 1-20) and adds the character's modifier.
-3. DM posts the result in this format:
-
-`[ROLL] CharacterName: STAT check — d20(N) + mod = total vs DC X — SUCCESS/FAILURE`
+2. DM rolls using the platform's built-in dice roller (discovered from tool schemas). The platform roller is the ONLY valid source of randomness — never generate your own numbers.
+3. DM posts the result in a formatted block with the character's name, stat, roll, modifier, total, DC, and outcome.
 
 Example: `[ROLL] Thorin: STR check — d20(14) + 3 = 17 vs DC 13 — SUCCESS`
 

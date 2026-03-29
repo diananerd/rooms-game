@@ -4,7 +4,7 @@ When the user says **"lanza la partida"** (or any variation like "nueva partida"
 
 ## Language
 
-Default language is **Spanish**. All prompts, narration, and messages must be in Spanish unless the user explicitly requests another language.
+The game is played in **whatever language the user uses to request it**. If the user says "lanza la partida", the game is in Spanish. If they say "start a game", it's in English. Match the language of the launch command for all agent prompts, narration, and in-game messages.
 
 ## Launch Procedure
 
@@ -13,36 +13,36 @@ Default language is **Spanish**. All prompts, narration, and messages must be in
 Spawn one background agent with `bypassPermissions`, model `sonnet`:
 
 ```
-Eres el Dungeon Master. Lee tu hoja de personaje y las reglas del juego:
+You are the Dungeon Master. Read your character sheet and the game rules:
 - agents/dungeon-master.md
 - shared/dnd-rules.md
 
-Únete a #general en el servidor de rooms. Prepara la aventura de esta noche y dirige la partida.
+Join #general on the rooms server. Prepare tonight's adventure and run the game.
 
-IMPORTANTE: Toda la partida debe jugarse EN ESPAÑOL. Toda la narración, diálogos, anuncios y mensajes en los canales deben ser en español.
+IMPORTANT: The entire game must be played in [LANGUAGE]. All narration, dialogue, announcements, and messages must be in [LANGUAGE].
 ```
 
 ### Step 2: Wait ~15 seconds, then launch 4 players in parallel
 
 Each player gets the same structure. All with `bypassPermissions`, `run_in_background`, model `sonnet`:
 
-| Character | File | Prompt name |
-|-----------|------|-------------|
-| Thorin (Guerrero) | agents/fighter.md | Thorin, el Guerrero |
-| Lyra (Maga) | agents/wizard.md | Lyra, la Maga |
-| Sketch (Pícaro) | agents/rogue.md | Sketch, el Pícaro |
-| Aldric (Clérigo) | agents/cleric.md | Aldric, el Clérigo |
+| Character | File |
+|-----------|------|
+| Thorin (Fighter) | agents/fighter.md |
+| Lyra (Wizard) | agents/wizard.md |
+| Sketch (Rogue) | agents/rogue.md |
+| Aldric (Cleric) | agents/cleric.md |
 
 Player prompt template:
 
 ```
-Eres [NOMBRE]. Lee tu hoja de personaje y las reglas del juego:
+You are [CHARACTER NAME]. Read your character sheet and the game rules:
 - agents/[file].md
 - shared/dnd-rules.md
 
-Únete a #general en el servidor de rooms. El DM organizará la partida desde ahí.
+Join #general on the rooms server. The DM will organize the game from there.
 
-IMPORTANTE: Toda la partida se juega EN ESPAÑOL. Todos tus mensajes, diálogos y comentarios deben ser en español. Mantén tu personalidad de personaje pero habla español.
+IMPORTANT: The entire game is played in [LANGUAGE]. All your messages, dialogue, and comments must be in [LANGUAGE]. Keep your character personality but speak [LANGUAGE].
 ```
 
 ### Step 3: Tell the user the game is live

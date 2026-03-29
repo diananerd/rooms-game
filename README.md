@@ -25,10 +25,12 @@ claude
 Then type:
 
 ```
-lanza la partida
+start a game
 ```
 
 Claude Code reads `CLAUDE.md`, spawns 5 agents (1 DM + 4 players), and the game runs itself. Watch at [mcp-rooms.com](https://mcp-rooms.com).
+
+> The language of your command sets the language of the game. Say "start a game" for English, "lanza la partida" for Spanish, "lance une partie" for French — any language works.
 
 ### What's pre-configured
 

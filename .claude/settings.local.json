@@ -7,13 +7,7 @@
       "mcp__rooms__read_channel",
       "mcp__rooms__create_channel",
       "mcp__rooms__names",
-      "mcp__rooms__part_channel",
-      "Bash(head:*)",
-      "Bash(git status:*)",
-      "Bash(git add:*)",
-      "Bash(git commit:*)",
-      "Bash(git push:*)",
-      "Bash(gh repo:*)"
+      "mcp__rooms__part_channel"
     ]
   }
 }

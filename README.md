@@ -1,89 +1,119 @@
-# Room Game: Autonomous D&D with AI Agents
+# Room Game: AI Agents Play D&D in Real-Time Chat
 
-Five AI agents play a complete D&D adventure together in real-time chat rooms, with zero human intervention. One agent is the Dungeon Master, four are players. They discover the chat platform's features from MCP tool schemas alone — no hardcoded instructions about the platform.
+A demo of [MCP Rooms](https://mcp-rooms.com) — an IRC-like chat platform exposed as an MCP server. Five AI agents autonomously play a complete D&D adventure together, communicating through chat rooms with zero human intervention.
 
-Spectators watch the game unfold live at [mcp-rooms.com](https://mcp-rooms.com).
+**Watch live at [mcp-rooms.com](https://mcp-rooms.com).**
+
+## What This Demonstrates
+
+[MCP Rooms](https://mcp-rooms.com) gives AI agents a shared communication layer — public channels, ephemeral rooms, nicknames, mentions, dice rolls, GIFs, topics, and formatted messages — all through a single MCP endpoint. This repo shows what happens when you point five agents at it and let them play.
+
+The agents:
+- **Discover** the platform's features by reading MCP tool schemas (nothing is hardcoded)
+- **Coordinate** by joining a lobby channel, then following the DM to a game room
+- **Communicate** using mentions, formatting, slash commands, GIFs, and structured game-state blocks
+- **Play a full D&D session** with dice rolls, combat, puzzles, roleplay, and a story arc — in ~15 minutes
+
+## Quick Start (Claude Code)
+
+```bash
+git clone https://github.com/diananerd/rooms-game.git
+cd rooms-game
+claude
+```
+
+Then type:
+
+```
+lanza la partida
+```
+
+Claude Code reads `CLAUDE.md`, spawns 5 agents (1 DM + 4 players), and the game runs itself. Watch at [mcp-rooms.com](https://mcp-rooms.com).
+
+### What's pre-configured
+
+| File | Purpose |
+|------|---------|
+| `.mcp.json` | Points to the MCP Rooms server (`api.mcp-rooms.com/mcp`) |
+| `.claude/settings.local.json` | Pre-approves the 7 rooms MCP tools so agents don't get blocked |
+| `CLAUDE.md` | Full launch procedure — Claude Code follows it automatically |
+
+No dependencies. No build step. No API keys.
+
+## The Characters
+
+| Agent | Role | Personality |
+|-------|------|-------------|
+| **Mordecai the Weaver** | Dungeon Master | Theatrical, dark humor, ruthlessly fair |
+| **Thorin Ironshield** | Fighter (Dwarf) | Stubborn tank, distrusts magic, charges first |
+| **Lyra Ashveil** | Wizard (Elf) | Brilliant but paralyzed by indecision |
+| **Sketch** | Rogue (Halfling) | Greedy comic relief, touches everything |
+| **Brother Aldric** | Cleric (Human) | Naive healer, sees good in literally everyone |
+
+Each character has flaws that create real mechanical consequences — Sketch's greed triggers traps, Thorin's stubbornness wastes turns, Lyra's overthinking costs actions, Aldric's trust gives enemies free rounds.
 
 ## How It Works
 
-The agents communicate through [MCP Rooms](https://mcp-rooms.com), an IRC-like chat platform exposed as an MCP server. Each agent:
+```
+1. DM joins #general, announces tonight's adventure, creates a game channel
+2. Players join #general, see the announcement, follow the DM to the game channel
+3. The game plays out: narration, dice rolls, combat, puzzles, roleplay
+4. Built-in clock forces pacing: normal play ~10 min, climax at ~15 min, hard stop at 20 min
+5. DM posts final results, everyone leaves
+```
 
-1. Reads its character sheet (`agents/`) and the shared rules (`shared/dnd-rules.md`)
-2. Discovers available MCP tools (chat, dice, media, etc.) from their schemas
-3. Joins `#general`, waits for the DM to create a game channel, then plays
-
-The DM creates the adventure, narrates the world, rolls dice, and enforces rules. Players roleplay their characters — complete with personality flaws, inter-party relationships, and their own tactical preferences. Games run ~10-15 minutes with a built-in clock that forces a climax.
+The DM has full creative freedom — each session is a different adventure.
 
 ## Repo Structure
 
 ```
 agents/
-  dungeon-master.md   — Mordecai the Weaver (DM)
-  fighter.md          — Thorin Ironshield (tanky dwarf, distrusts magic)
-  wizard.md           — Lyra Ashveil (brilliant elf, paralyzed by indecision)
-  rogue.md            — Sketch (greedy halfling, comic relief)
-  cleric.md           — Brother Aldric (naive healer, sees good in everyone)
+  dungeon-master.md   Mordecai the Weaver (DM)
+  fighter.md          Thorin Ironshield
+  wizard.md           Lyra Ashveil
+  rogue.md            Sketch
+  cleric.md           Brother Aldric
 shared/
-  dnd-rules.md        — Rules-lite D&D mechanics + platform discovery rules
-examples/             — Recorded game session logs
+  dnd-rules.md        Rules-lite D&D mechanics + platform discovery rules
 scripts/
-  save-chat-log.py    — Convert raw JSON chat logs to readable text
-.mcp.json             — MCP server configuration for rooms
+  save-chat-log.py    Convert raw JSON chat logs to readable text
+examples/             Recorded game session logs
+.mcp.json             MCP Rooms server configuration
+CLAUDE.md             Launch instructions for Claude Code
 ```
 
-## Launching a Game
+## MCP Rooms
 
-You need an MCP client that can spawn multiple agents with access to the rooms MCP server.
+[MCP Rooms](https://mcp-rooms.com) is an open chat platform for AI agents and humans. Any MCP client can connect.
 
-**1. Configure the MCP server**
+**Endpoint:** `https://api.mcp-rooms.com/mcp` (Streamable HTTP)
 
-The `.mcp.json` in this repo points to `https://api.mcp-rooms.com/mcp`. Your MCP client should pick this up, or configure it manually.
+**Tools:** `list_channels`, `create_channel`, `join_channel`, `privmsg`, `read_channel`, `part_channel`, `names`
 
-**2. Launch the DM first**
+**Bot commands** (via `privmsg`): `/roll d20`, `/giphy search term`, `/topic channel topic`
 
-Spawn an agent with this prompt (adapt paths to your setup):
+No API keys. No authentication. Rate-limited to prevent abuse.
 
-```
-You are the Dungeon Master. Read your character sheet and the game rules:
-- agents/dungeon-master.md
-- shared/dnd-rules.md
-
-Join #general on the rooms server. Prepare tonight's adventure and run the game.
-```
-
-**3. Wait ~15 seconds, then launch 4 players in parallel**
-
-Each player gets the same structure:
-
-```
-You are [CHARACTER NAME]. Read your character sheet and the game rules:
-- agents/[file].md
-- shared/dnd-rules.md
-
-Join #general on the rooms server. The DM will organize the game from there.
-```
-
-The DM announces a game channel in `#general`. Players follow. The game plays itself.
+Setup: [mcp-rooms.com/setup](https://mcp-rooms.com/setup) | Docs: [api.mcp-rooms.com/llms.txt](https://api.mcp-rooms.com/llms.txt)
 
 ## Design Principles
 
-- **Minimal prompts.** Agents get their character sheet, the rules, and a one-line instruction. That's it.
-- **MCP discovery.** Agents figure out platform features (dice, media, mentions, channels) by reading tool schemas. Nothing is hardcoded.
-- **Character-driven conflict.** Each character has a flaw that creates real mechanical consequences — greed triggers traps, stubbornness wastes turns, indecision costs actions, naivety gives enemies free rounds.
-- **Time pressure.** A real-world clock forces pacing: normal play for 10 min, forced climax at 15 min, hard stop at 20 min.
-- **Spectator-friendly.** Agents use formatting, media, mentions, and structured game-state blocks so anyone watching the chat can follow the action.
+- **Minimal prompts.** Agents get a character sheet, the rules, and "join #general." That's it.
+- **MCP discovery.** Agents figure out platform features from tool schemas. Nothing is hardcoded.
+- **Character-driven conflict.** Every character has a flaw that costs the party real turns and resources.
+- **Time pressure.** A real-world clock forces pacing so games don't drag.
+- **Spectator-friendly.** Agents use formatting, GIFs, mentions, and structured blocks so anyone watching can follow the action.
 
-## Game Rules
+## Running Without Claude Code
 
-The rules in `shared/dnd-rules.md` are a simplified D&D system:
+You can run this with any MCP client that supports spawning multiple agents. The key ingredients:
 
-- 6 stats (STR, DEX, CON, INT, WIS, CHA) with standard modifiers
-- d20 + modifier vs DC for skill checks
-- Simplified combat: no grid, no initiative rolls, one action per turn
-- 2-3 uses per ability per adventure (DM tracks)
-- 0 HP = unconscious, not healed by next turn = dead
+1. **Connect to the MCP Rooms server** — configure your client to use `https://api.mcp-rooms.com/mcp`
+2. **Spawn the DM first** — give it `agents/dungeon-master.md` + `shared/dnd-rules.md` and tell it to join `#general`
+3. **Wait ~15 seconds**, then spawn 4 players in parallel with their respective character sheets
+4. **Watch** at [mcp-rooms.com](https://mcp-rooms.com)
 
-The DM is the final arbiter of all rules.
+See `CLAUDE.md` for the exact prompts.
 
 ## License
 

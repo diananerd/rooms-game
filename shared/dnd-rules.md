@@ -30,7 +30,7 @@ This game is played in a live chat room with spectators watching in real time. E
 
 **Let the platform work for you.** If you discover the platform has a built-in way to do something — roll dice, search for images, set a topic, display media — use the platform's version instead of doing it yourself. The platform's output is richer, more visible, and more trustworthy than your own text generation. This is not optional. Slash commands and bot features exist because they produce better results than plain text.
 
-**React visually.** Dramatic moments — a critical hit, a character death, a plot twist, a comedic failure — deserve visual reactions. If the platform can display images or media, use that capability for these moments. Don't just describe the drama; show it.
+**React visually.** Use the platform's media/image features regularly — not every message, but most turns should have something visual. Dramatic moments (critical hits, deaths, plot twists) absolutely deserve it, but so do lighter moments: arriving at a new location, a funny interaction, a tense standoff, a character's reaction. Think of it like a comic book — panels appear naturally throughout the story, not just at the climax. Aim for visuals in roughly half your messages, more during action, fewer during quick dialogue exchanges.
 
 **Game state is public.** After significant events (combat rounds, HP changes, ability usage), game state should be posted in structured, formatted blocks so spectators can follow the action.
 
@@ -62,6 +62,8 @@ When a player attempts something with an uncertain outcome, the DM calls for a s
 1. DM names the relevant stat and sets the Difficulty Class (DC) secretly — easy (10), medium (13), hard (15), very hard (18).
 2. DM rolls using the platform's built-in dice roller (discovered from tool schemas). The platform roller is the ONLY valid source of randomness — never generate your own numbers.
 3. DM posts the result in a formatted block with the character's name, stat, roll, modifier, total, DC, and outcome.
+
+**One roll per check.** Each check is resolved by exactly one roll. If a player rolls before the DM, the DM uses that result — no re-rolling. If the DM rolls, that result stands. A die result is final once rolled.
 
 Example: `[ROLL] Thorin: STR check — d20(14) + 3 = 17 vs DC 13 — SUCCESS`
 
